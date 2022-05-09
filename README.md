@@ -1,6 +1,5 @@
 # AE640A
-AE640A: Autonomous Navigation
-Spring 2022 </br>
+AE640A: Autonomous Navigation (Spring '22) </br>
 Compliation of various assignments submissions as well as various resources reffered to as a part of this course. </br>
 
 - Assignment#0 : Mathematics Basics
